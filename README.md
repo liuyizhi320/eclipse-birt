@@ -10,6 +10,6 @@ jdbc:mysql://172.28.32.116/ce_ebmall<br>
 
 
 
-* report URL
+* report URL<br>
 http://172.191.148.230:8080/birt-viewer-master/frameset?__report=report/SalesInvoice.rptdesign<br>
 http://172.191.148.230:8080/birt-viewer-master/frameset?__report=SalesInvoice.rptdesign
